@@ -1,5 +1,5 @@
 # Exercise 1 - Basic Output
-Source: Deitel & Deitel, *C How to Program*, 9th Edition, Chapter 2, Exercise 2.3(c).
+Source: Deitel & Deitel, C How to Program, 9th Edition, Chapter 2, Exercise 2.3(c).
 
 **What the program does:** The program prints a fixed message to the screen using only output
 statements - no input is collected. It shows how one `printf` call can produce several lines and
@@ -197,5 +197,4 @@ Result: 11
 Choice: 3
 Goodbye!
 ```
-
----
+https://github.com/annaispretty/Structured-programming--practice.git
